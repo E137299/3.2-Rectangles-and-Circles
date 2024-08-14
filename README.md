@@ -1,5 +1,11 @@
 # 3.2 Rectangles and Circles
 
+## Java Documentation
+[Classes and Objects](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html)
+
+## Java Tutorials
+[Classes and Objects](https://runestone.academy/ns/books/published/apcsareview/JavaBasics/toctree.html)
+
 ## Background:
 1. It is always important to have a well-designed class before writing down any code. Having a
 class laid out on paper before writing the code allows programmers to see any design flaws
