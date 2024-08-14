@@ -20,7 +20,8 @@ what data those classes hold, and how those classes behave are the main objectiv
     // edges of the rectangle at x and x + width. The top and bottom edges
     // are at y and y + height.
     Rectangle(double x, double y, double width, double height)
-    Methods
+    
+    //Methods
     // Calculates and returns the perimeter of the rectangle
     public double getPerimeter()
     // Calculates and returns the area of the rectangle
