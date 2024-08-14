@@ -1,4 +1,6 @@
-Background:
+# 3.2 Rectangles and Circles
+
+## Background:
 1. It is always important to have a well-designed class before writing down any code. Having a
 class laid out on paper before writing the code allows programmers to see any design flaws
 before they have coded those flaws into their classes. Determining which classes are needed,
@@ -20,7 +22,7 @@ what data those classes hold, and how those classes behave are the main objectiv
     // edges of the rectangle at x and x + width. The top and bottom edges
     // are at y and y + height.
     Rectangle(double x, double y, double width, double height)
-    
+
     //Methods
     // Calculates and returns the perimeter of the rectangle
     public double getPerimeter()
